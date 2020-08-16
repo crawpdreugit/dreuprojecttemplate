@@ -13,7 +13,7 @@ Hello, I am Priscilla Saarah. I am an international student from Ghana and an un
 ## About My Mentor
 
 I am a member of the team of Professor Odest Chadwicke Jenkins (Chad Jenkins for short). He is a faculty in Computer Science at the University of Michigan and also the Associate Director of the Michigan Robotics Institute. His research interests are particularly focused on how we can teach robots from human demonstration. 
-https://www.youtube.com/playlist?list=PL0Dw9tJ_j_k5Vse2bnpDfEZO4XnCVpvcW 
+[Youtube videos] (https://www.youtube.com/playlist?list=PL0Dw9tJ_j_k5Vse2bnpDfEZO4XnCVpvcW) 
 links to some videos of his research work.
 
 ## About My Project
